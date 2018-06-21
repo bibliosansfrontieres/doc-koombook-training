@@ -1,12 +1,12 @@
-# Un fonctionnement hybride
+---
+title: Un fonctionnement hybride
+---
 
 **Le Koombook est un appareil pensé pour fonctionner dans un environnement où Internet est peu ou pas disponible.**
 
-
 ![](onoff.png)
 
-
-De ce fait il intègre nativement des fonctionnalités lui permettant de fonctionner en ligne \(connecté à Internet\) et hors ligne.
+De ce fait il intègre nativement des fonctionnalités lui permettant de fonctionner en ligne (connecté à Internet) et hors ligne.
 
 Certaines applications installées sur le KoomBook sont capables de détecter la présence d'une connexion Internet et de se mettre à jour en conséquence.
 

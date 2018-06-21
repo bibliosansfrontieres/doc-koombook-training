@@ -1,4 +1,6 @@
-# Spécificités du KoomBook
+---
+title: Spécificités du KoomBook
+---
 **Le KoomBook fonctionne en autonomie **
 - **Électrique** : Grâce à sa batterie embarquée (autonomie de 4h environ)
 - **Réseau** : Grâce à ses deux antennes wifi, une pour créer un hotspot wifi, l'autre pour se connecter à un réseau wifi existant

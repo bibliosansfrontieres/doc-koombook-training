@@ -1,4 +1,6 @@
-# Résolution des problèmes
+---
+title: Résolution des problèmes
+---
 
 **Si l'accès au KoomBook ne fonctionne pas**
 - Depuis un ordinateur relié au même réseau local que le KoomBook, ouvrez une invite de commande ms-dos et tapez

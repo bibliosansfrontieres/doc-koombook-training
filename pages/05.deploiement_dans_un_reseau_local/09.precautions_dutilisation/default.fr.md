@@ -1,4 +1,6 @@
-# Précautions d'utilisation
+---
+title: Précautions d'utilisation
+---
 **Quelques précautions d'utilisation pour une plus longue durée de vie du KoomBook :**
 - Placer le KoomBook dans un endroit frais de préférence
 - Ne pas exposer au soleil

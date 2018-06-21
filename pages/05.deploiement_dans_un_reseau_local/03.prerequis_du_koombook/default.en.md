@@ -1,4 +1,7 @@
-# Prérequis du KoomBook
+---
+title: Prérequis du KoomBook
+---
+
 **Le KoomBook a besoin d'une connexion Internet pour**
 - Mettre à jour son système d'exploitation
 - Appliquer des correctifs logiciels 

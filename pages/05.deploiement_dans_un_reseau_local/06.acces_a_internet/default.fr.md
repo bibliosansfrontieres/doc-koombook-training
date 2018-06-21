@@ -1,4 +1,6 @@
-# Accès à internet
+---
+title: Accès à internet
+---
 
 **Si votre réseau local est filtré par un pare-feu**, il est important de configurer votre pare feu afin d'autoriser le Koombook à communiquer sur Internet
 

@@ -1,4 +1,6 @@
-# Rappels
+---
+title: Rappels
+---
 
 ## Infrastructure réseau
 D'un réseau à un autre les infrastructures réseaux peuvent comporter des différences

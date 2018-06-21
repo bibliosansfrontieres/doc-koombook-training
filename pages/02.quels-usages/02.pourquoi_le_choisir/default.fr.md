@@ -1,4 +1,7 @@
-# Pourquoi le choisir ?
+---
+title: Pourquoi le choisir ?
+---
+
 ## En résumé 
 * Il fournit des médias et des applications pédagogiques adaptés à ses usagers.
 * Il propose un accès à ses données via réseau Wifi ou filaire

@@ -1,6 +1,8 @@
-# Naissance du projet
+---
+title: Naissance du projet
+---
 
-**Le KoomBook est un projet initié suite à la sortie des premières IdeasBox. **
+**Le KoomBook est un projet initié suite à la sortie des premières IdeasBox.**
 
 ![](baby.png)
 

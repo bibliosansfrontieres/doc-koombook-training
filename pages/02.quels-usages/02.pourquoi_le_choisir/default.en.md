@@ -1,4 +1,7 @@
-# Why use the KoomBook?
+---
+title: Why use the KoomBook?
+---
+
 ## In summary... 
 * Provides media and educational resources tailored to its users. 
 * Allows access to pre-loaded content via wifi or fiber-optics. 

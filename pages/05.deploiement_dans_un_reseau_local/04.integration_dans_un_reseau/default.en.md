@@ -1,4 +1,6 @@
-# Intégration dans un réseau
+---
+title: Intégration dans un réseau
+---
 Lorsque le KoomBook est intégré dans un réseau local privé (Ethernet ou wifi), les machines du réseau local ne connaissent pas :
 - Son adresse IP
 - Son nom de domaine

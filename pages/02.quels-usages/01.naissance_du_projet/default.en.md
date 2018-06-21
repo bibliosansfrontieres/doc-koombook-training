@@ -1,5 +1,8 @@
-#Project Creation 
-** The KoomBook is a project following the creation of the first Ideas Boxes. **
+---
+title: Project Creation
+---
+
+**The KoomBook is a project following the creation of the first Ideas Boxes.**
 
 ![](baby.png)
 

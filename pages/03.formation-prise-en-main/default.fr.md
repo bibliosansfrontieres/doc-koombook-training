@@ -1,4 +1,6 @@
-# Formation et prise en main
+---
+title: Formation et prise en main
+---
 
 [Téléchargez le guide rapide d'utilisation](http://filer.bsf-intranet.org/koombook-guide-RV-KBcampus-new.pdf) pour une première prise en main
 

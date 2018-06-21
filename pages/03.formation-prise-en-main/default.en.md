@@ -1,5 +1,7 @@
+---
+title: Training and Handling
+---
 
-#  Training and Handling
 [Download the rapid usage guide](http://filer.bsf-intranet.org/koombook-guide-RV-KBcampus-new.pdf) for a first look at how to operate the KoomBook
 ## Learning Objectives 
 ![](.png)
