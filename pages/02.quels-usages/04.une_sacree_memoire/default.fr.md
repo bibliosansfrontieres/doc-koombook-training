@@ -1,4 +1,6 @@
-# Une sacrée mémoire
+---
+title: Une sacrée mémoire
+---
 
 Le KoomBook permet d'embarquer plusieurs centaines de gigaoctets de données.
 
