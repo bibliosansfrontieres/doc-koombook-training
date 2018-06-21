@@ -46,7 +46,7 @@ title: Formation et prise en main
 
 * Une alimentation \(secteur 220v - 5V USB\)
 
-> > > > >  Attention : Le boîtier contient un élément sensible aux chocs, le disque dur. Le boîtier n'est pas étanche, attention  à l'eau et à la poussière.
+> > > > Le boîtier contient un élément sensible aux chocs, le disque dur. Le boîtier n'est pas étanche, attention  à l'eau et à la poussière.
 
 ## Liste du matériel
 

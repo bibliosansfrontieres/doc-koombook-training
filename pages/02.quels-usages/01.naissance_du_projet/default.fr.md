@@ -18,7 +18,7 @@ En effet à cette époque Bibliothèques Sans Frontières souhaitait se doter d'
 **Le projet se décline en deux versions : **
 
 * **KoomBook nu** :  
-  ![](koombook nu.jpg)  
+  ![](koombook_nu.jpg)  
   Un KoomBook, une alimentation USB et une documentation d'utilisation
 * **Flightcase KoomBook** :  
   ![](flightcase.jpg)  

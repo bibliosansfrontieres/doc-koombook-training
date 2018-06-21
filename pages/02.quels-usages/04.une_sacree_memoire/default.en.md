@@ -1,4 +1,6 @@
-# Strong Memory
+---
+title: Strong Memory
+---
 
 
 
