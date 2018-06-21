@@ -4,7 +4,7 @@
 
 ## Objectifs pédagogiques
 
-![](../?.png)
+![](.png)
 
 * Comprendre le fonctionnement du KoomBook, ses principales caractéristiques et ses cas d'usages
 * Savoir se connecter au hotspot KoomBook
@@ -26,37 +26,33 @@
 * L'ensemble des données se trouvent sur le disque dur du KoomBook
 * Tout comme une Box Internet, le KoomBook créé un hotspot wifi
 * Les utilisateurs se connectent au KoomBook et consultent les données enregistrées sur le disque dur.
-  ![](../clientserveur.png)
+  ![](clientserveur.png)
 
 ## Composition du KoomBook
 
 * Un nano-ordinateur \(Processeur : 1Ghz, 1Go de RAM\)  
-  ![](../olimex.png)
+  ![](olimex.png)
 * Un disque dur \(capacité 500Go\)  
-  ![](../hdd.png)
+  ![](hdd.png)
 * Une carte miscro SD \(capacité 16Go\)   
-  ![](../sd.png)
+  ![](sd.png)
 * Deux émetteurs\/récepteurs wifi \(porté ~ 30m, 10 utilisateurs\)  
-  ![](../wifi.png)
+  ![](wifi.png)
 * Une batterie \(entre 3 et 5h d'autonomie\)
 
-  ![](../batterie.png)
+  ![](batterie.png)
 
 * Une alimentation \(secteur 220v - 5V USB\)
 
-** Attention : Le boîtier contient un élément  
-sensible aux chocs, le disque dur**
-
-**Le boîtier n'est pas étanche, attention  
-à l'eau et à la poussière.**
+> > > > >  Attention : Le boîtier contient un élément sensible aux chocs, le disque dur. Le boîtier n'est pas étanche, attention  à l'eau et à la poussière.
 
 ## Liste du matériel
 
-Retrouvez la liste complète du matériel sur le document [**Montage d'un KoomBook**](https://bsf.gitbooks.io/montage-koombook/content/fr/chapter1.html)
+Retrouvez la liste complète du matériel sur le document [**Montage d'un KoomBook**](http://assemblage-koombook.doc.bibliosansfrontieres.org/fr/composants)
 
 ## Chargement, mise en marche
 
-![](../prise.png)
+![](prise.png)
 
 * Charge complète : 6h.
   Si la batterie a été déchargée complètement, le chargement complet de la batterie sera un peu plus long
@@ -67,22 +63,23 @@ Retrouvez la liste complète du matériel sur le document [**Montage d'un KoomBo
 
 ## Maintenance et mise à jour
 
-![](../arrière_kb.jpg)
+![](arrière_kb.jpg)
 
 * Le boîtier peut être ouvert au besoin  
-  **Attention tous les éléments à l'intérieur sont fragiles et doivent être manipulés avec précautions**
+>>>> Tous les éléments à l'intérieur sont fragiles et doivent être manipulés avec précautions
+
 * La mise à jour du KoomBook se fait via Internet. 
   Aucune action n'est requise de votre part. Connectez simplement votre appareil à votre box ADSL avec un câble réseau Ethernet RJ45 et allumez-le. La mise à jour du KoomBook se fera automatiquement.
 
 ## Connexion au hotspot wifi
 
-## ![](../signe_wifi.png)
+![](signe_wifi.png)
 
 * Activez le wifi sur votre tablette\/ordinateur
 * Repérez et connectez-vous au hotspot wifi KoomBook
 * Entrez la clé wifi \(référez-vous au guide utilisateur fourni lors de la remise du KoomBook\)
 * Ouvrez un navigateur à l'URL suivante 
-  \(ne pas oublier le http:\/\/\) [http:\/\/koombook.lan](http://koombook.lan)
+  \(ne pas oublier le http://\) [http://koombook.lan](http://koombook.lan)
 
 ## Précautions d'utilisation
 

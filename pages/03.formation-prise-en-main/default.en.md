@@ -1,8 +1,8 @@
 
-# Training and Handling
+#  Training and Handling
 [Download the rapid usage guide](http://filer.bsf-intranet.org/koombook-guide-RV-KBcampus-new.pdf) for a first look at how to operate the KoomBook
 ## Learning Objectives 
- ![](../?.png)
+![](.png)
 * Understand the KoomBook's function, its principale charateristics and its usage situations 
 * Understand how to connect to the KoomBook hotspot 
 * Understand how to jointly use the mobile devices 
@@ -23,33 +23,30 @@
 - All data is found on the KoomBook's hard drive 
 - Like a router, the KoomBook creates a wifi hotspot 
 - Users connect to the KoomBook and consult the content pre-loaded on the hard drive
-![](../clientserveur.png)
+![](clientserveur.png)
 
 ## KoomBook Composition 
 - A nano-computer (Processor: 1Ghz, 1Go of rAM)
-![](../olimex.png)
+![](olimex.png)
 - A hard drive  (capacity of 500Go)  
-![](../hdd.png)
+![](hdd.png)
 - A micro SD card (capacity of 16Go)   
-![](../sd.png)
+![](sd.png)
 - Two wifi transmitters and receptors (holds about 30m, 10 users) 
-![](../wifi.png)
+![](wifi.png)
 - A battery (between 3 and 5 hours of battery life)  
-![](../batterie.png)
+![](batterie.png)
 
 - A power supply (220v sector - 5V USB)  
 
-
-** Attention: The case contains a hard drive sensitive to shocks **
-
-** The case is not water tight,pay attention to water and dust.**
+> > > > The case contains a hard drive sensitive to shocks. The case is not water tight,pay attention to water and dust.
 
 ## List of Material 
 
-Find the complete list of material on the document ** [KoomBook assembly](https://bsf.gitbooks.io/montage-koombook/content/fr/chapter1.html) **
+Find the complete list of material on the document **[KoomBook assembly](http://assemblage-koombook.doc.bibliosansfrontieres.org/en/composants) **
 
 ## Charging process and powering on 
-![](../prise.png)
+![](prise.png)
 - Time to reach complete charge: 6 hours 
 If the battery is completely drained, complete charging will take a little bit longer.
 - Charge the KoomBook out of the sun and in moderate temperature conditions, 25-30°C max
@@ -58,13 +55,18 @@ If the battery is completely drained, complete charging will take a little bit l
 - Front button, press and hold for 2 seconds to turn on the device -- it takes 1 minute and 15 seconds to start 
 
 ## Maintenance and updates 
-![](../arrière_kb.jpg)
+![](arrière_kb.jpg)
 - The case can open if needed   
-** Be aware that all of the interior elements are fragile and must be handled with care **
-- KoomBook updates are done via Internet. 
-You aren't required to take any action to complete the updates. Simply connect the KoomBook to the ADSL box with an Ethernet RJ45 cable and turn it on. The KoomBook will update automoatically. 
 
-## Connexion to the wifi hotspot ![](../signe_wifi.png)
+> > > > Be aware that all of the interior elements are fragile and must be handled with care
+
+- KoomBook updates are done via Internet. 
+  You aren't required to take any action to complete the updates. Simply connect the KoomBook to the ADSL box with an Ethernet RJ45 cable and turn it on. The KoomBook will update automoatically. 
+
+## Connexion to the wifi hotspot
+
+![](signe_wifi.png)
+
 - Activate wifi on your tablet/computer 
 - Locate and connect to the KoomBook's wifi hotspot 
 - Enter the wifi code (refer to the user guide provided upon the KoomBook's delivery)
